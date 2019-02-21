@@ -1,0 +1,15 @@
+{
+  "name": "create-next-example-app",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^8.0.1",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2",
+    "react-ideal-image": "^0.0.5",
+    "react-waypoint": "^9.0.0"
+  }
+}
